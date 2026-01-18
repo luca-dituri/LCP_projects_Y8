@@ -1,0 +1,25 @@
+Salve Mattia,
+
+ci sono molti dataset disponibili. Eccone una lista (in generale, potete una volta fatto il codice testare su piu dati possibili, ovviamente non dovete farli tutti, concentratvei si quelli che vi sembrano migliori). Se volete vi metto anche dei dataset di persone con aritmia/malate nel caso vogliate testare ci sia differenza tra questi e i sani (non ho idea della risposta, probabilmente no, se si sarebbe un bel risultato).
+
+HEART BEAT DATASETS
+
+https://www.kaggle.com/datasets/saurav9786/heart-rate-prediction
+
+https://www.kaggle.com/datasets/shayanfazeli/heartbeat
+
+https://www.physionet.org/about/database/
+
+https://paperswithcode.com/datasets?q=ECG
+
+https://www.nature.com/articles/s41597-020-0495-6
+
+https://physionet.org/content/fantasia/1.0.0/
+
+and 
+
+https://physionet.org/content/nsrdb/1.0.0/
+
+https://www.kaggle.com/datasets/akki2703/ecg-of-cardiac-ailments-dataset
+
+The latter are for people with aritmia/diseaes, if you want to check the difference with healthy.
